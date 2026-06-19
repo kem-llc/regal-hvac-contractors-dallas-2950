@@ -1,0 +1,327 @@
+{
+  "business": {
+    "name": "Regal HVAC Contractors",
+    "shortName": "Regal HVAC",
+    "tagline": "Regal Comfort, Royal Service",
+    "niche": "HVAC / AC Repair",
+    "phone": "(469) 653-2950",
+    "address": "Dallas, TX",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sat 7am-8pm, Sun 8am-6pm",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "HVAC & AC Repair Dallas | Regal HVAC Contractors | (469) 653-2950",
+    "description": "Top-rated HVAC repair & installation in Dallas. Trusted AC service since 2010. 100% satisfaction guaranteed. Call (469) 653-2950 for fast, expert service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Premier HVAC Service",
+      "headline": "When Your AC Breaks, We Fix It Fast",
+      "subheadline": "Expert HVAC repair, maintenance, and installation in Dallas. Same-day service, upfront pricing, and a 100% satisfaction guarantee.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (469) 653-2950"
+    },
+    "stats": [
+      {
+        "value": "14+",
+        "label": "Years Serving Dallas"
+      },
+      {
+        "value": "5,000+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Fast, Reliable Repairs",
+        "title": "AC Repair You Can Count On",
+        "body": "When the Texas heat hits, you need a team that responds fast. Our certified technicians arrive with the right tools and parts to get your AC back up and running—often the same day.",
+        "bullets": [
+          "Same-day service available",
+          "Transparent upfront pricing",
+          "Fully licensed and insured"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "100% Satisfaction Guaranteed",
+        "cardBody": "We stand behind every job. If you're not happy, we make it right—no questions asked."
+      },
+      {
+        "eyebrow": "Efficiency & Savings",
+        "title": "Preventive Maintenance Plans",
+        "body": "Keep your system running at peak efficiency with our affordable maintenance plans. Regular tune-ups extend equipment life, lower energy bills, and prevent costly breakdowns.",
+        "bullets": [
+          "Bi-annual inspections & tune-ups",
+          "Priority scheduling for members",
+          "10% discount on repairs"
+        ],
+        "reverse": true,
+        "cardLabel": "Save Money",
+        "cardTitle": "Lower Energy Bills",
+        "cardBody": "A well-maintained system uses up to 30% less energy. Our plans pay for themselves."
+      }
+    ],
+    "whyTitle": "Why Dallas Trusts Regal HVAC",
+    "whyChooseUs": [
+      {
+        "title": "Locally Owned & Operated",
+        "description": "We're your neighbors, not a national chain. We take pride in serving the Dallas community with personalized, honest service."
+      },
+      {
+        "title": "Certified & Experienced Technicians",
+        "description": "Every technician is NATE-certified and undergoes continuous training. You get expert workmanship on every visit."
+      },
+      {
+        "title": "Upfront Pricing, No Surprises",
+        "description": "We provide a detailed estimate before any work begins. What you see is what you pay—no hidden fees."
+      },
+      {
+        "title": "24/7 Emergency Service",
+        "description": "AC emergencies don't wait. Our team is available around the clock to handle urgent repairs, even on weekends."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Regal HVAC saved us during a heatwave! They arrived within two hours and fixed our AC quickly. Fair price and great communication.",
+        "author": "Sarah M.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "We've used Regal for maintenance and a new installation. Professional, clean, and on time. Highly recommend.",
+        "author": "James T.",
+        "role": "Uptown resident"
+      },
+      {
+        "quote": "Honest and reliable. They diagnosed an issue that another company missed. Will only call Regal from now on.",
+        "author": "Maria L.",
+        "role": "Oak Lawn homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Beat the Heat?",
+      "subheadline": "Call us now or schedule online for fast, expert HVAC service.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (469) 653-2950"
+    }
+  },
+  "servicesPage": {
+    "intro": "From emergency repairs to complete system installations, Regal HVAC offers a full range of heating and cooling services for Dallas homes and businesses. Every job is backed by our 100% satisfaction guarantee."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "AC Repair & Service",
+      "shortDescription": "Fast, reliable AC repair to restore your comfort quickly.",
+      "longDescription": "When your air conditioner stops working, we act fast. Our technicians diagnose the issue accurately and fix it on the spot whenever possible. We service all makes and models, from split systems to packaged units.",
+      "benefits": [
+        "Same-day service available",
+        "Upfront flat-rate pricing",
+        "Warranty on all repairs",
+        "Friendly, uniformed technicians"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We thoroughly inspect your system to identify the root cause of the problem."
+        },
+        {
+          "title": "Transparent Quote",
+          "description": "You receive a clear, itemized estimate before any work begins."
+        },
+        {
+          "title": "Repair & Test",
+          "description": "We fix the issue, then test the system to ensure optimal performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you get here?",
+          "answer": "We offer same-day service for most calls. Emergency services are available 24/7."
+        },
+        {
+          "question": "Do you charge for estimates?",
+          "answer": "No, our estimates are always free with no obligation."
+        }
+      ],
+      "slug": "ac-repair-service"
+    },
+    {
+      "icon": "02",
+      "title": "AC Installation & Replacement",
+      "shortDescription": "Expert installation of high-efficiency systems for lasting comfort.",
+      "longDescription": "Upgrade to a new, energy-efficient system that saves money and keeps your home comfortable. We help you choose the right unit for your home size and budget, then install it with precision.",
+      "benefits": [
+        "Free consultation & load calculation",
+        "Top brands (Trane, Carrier, Lennox)",
+        "Financing options available",
+        "12-year warranty on parts"
+      ],
+      "process": [
+        {
+          "title": "Home Assessment",
+          "description": "We evaluate your home's cooling needs and recommend the best system."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our team installs the unit with attention to detail and code compliance."
+        },
+        {
+          "title": "System Tune-Up",
+          "description": "We calibrate the system for peak efficiency and walk you through operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does installation take?",
+          "answer": "Most installations are completed in one day."
+        },
+        {
+          "question": "Do you offer financing?",
+          "answer": "Yes, we have flexible financing options with approved credit."
+        }
+      ],
+      "slug": "ac-installation-replacement"
+    },
+    {
+      "icon": "03",
+      "title": "Heating & Furnace Services",
+      "shortDescription": "Keep warm with expert furnace repair and installation.",
+      "longDescription": "Don't let a broken furnace leave you in the cold. We repair and install all types of heating systems, including gas furnaces, heat pumps, and electric heaters. Our team ensures your home stays safe and warm.",
+      "benefits": [
+        "Gas & electric furnace repair",
+        "Heat pump services",
+        "Carbon monoxide safety checks",
+        "24/7 emergency heating repair"
+      ],
+      "process": [
+        {
+          "title": "Safety Inspection",
+          "description": "We check for gas leaks, carbon monoxide, and other hazards."
+        },
+        {
+          "title": "Repair or Replace",
+          "description": "We recommend the most cost-effective solution."
+        },
+        {
+          "title": "System Test",
+          "description": "We run the system to ensure even heating and efficiency."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are signs my furnace needs repair?",
+          "answer": "Unusual noises, uneven heating, or rising energy bills are common signs."
+        },
+        {
+          "question": "Do you service heat pumps?",
+          "answer": "Yes, we service all heat pump brands for both heating and cooling."
+        }
+      ],
+      "slug": "heating-furnace-services"
+    },
+    {
+      "icon": "04",
+      "title": "Ductwork & Indoor Air Quality",
+      "shortDescription": "Cleaner air and efficient airflow with duct services.",
+      "longDescription": "Your ductwork plays a huge role in comfort and air quality. We offer duct cleaning, sealing, and replacement to improve airflow, reduce allergens, and lower energy costs.",
+      "benefits": [
+        "Duct cleaning & sanitization",
+        "Leak sealing & insulation",
+        "Air purifier installations",
+        "Improved HVAC efficiency"
+      ],
+      "process": [
+        {
+          "title": "Duct Inspection",
+          "description": "We use cameras to inspect ducts for leaks, blockages, or contaminants."
+        },
+        {
+          "title": "Cleaning & Sealing",
+          "description": "We remove debris and seal leaks with professional-grade materials."
+        },
+        {
+          "title": "Air Quality Test",
+          "description": "We test airflow and recommend upgrades like UV lights or filters."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should ducts be cleaned?",
+          "answer": "Every 3-5 years, or sooner if you have pets or allergies."
+        },
+        {
+          "question": "Can duct sealing lower my bills?",
+          "answer": "Yes, sealing leaks can improve efficiency by up to 20%."
+        }
+      ],
+      "slug": "ductwork-indoor-air-quality"
+    }
+  ],
+  "about": {
+    "headline": "Dallas' Trusted HVAC Team Since 2010",
+    "mission": "To provide honest, high-quality HVAC services that exceed expectations and ensure the comfort of every Dallas home and business.",
+    "story": [
+      "Regal HVAC Contractors was founded in 2010 with a simple mission: treat every customer like family. What started as a two-person operation has grown into a trusted team of certified technicians serving thousands of Dallas residents. We believe in doing the job right the first time, with transparent pricing and a smile.",
+      "Over the years, we've built a reputation for reliability and integrity. Whether it's a late-night emergency repair or a full system replacement, we bring the same dedication to every call. We're proud to be a locally owned business that cares about its community."
+    ],
+    "highlight": {
+      "stat": "14+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always tell the truth, even if it means recommending a repair instead of a more expensive replacement."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-grade materials and industry-best practices to ensure lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home with care, wearing shoe covers and cleaning up after every job."
+      },
+      {
+        "title": "Community",
+        "description": "We support local charities and give back to the Dallas area we call home."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Quote Today",
+    "subheadline": "Call us or fill out the form — we'll respond within 30 minutes.",
+    "primaryCta": "Call (469) 653-2950",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Uptown",
+      "Oak Lawn",
+      "Preston Hollow"
+    ]
+  },
+  "social_proof": {
+    "rating": 5,
+    "reviews": ""
+  },
+  "meta": {
+    "niche": "HVAC / AC Repair",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4696532950",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
